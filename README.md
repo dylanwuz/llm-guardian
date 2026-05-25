@@ -1,5 +1,7 @@
 # LLM Guardian
 
+![CI](https://github.com/dylanwuz/llm-guardian/actions/workflows/test.yml/badge.svg)
+
 A multi-layer defense system for detecting **Prompt Injection** and **Hallucination** in LLM-powered applications.
 
 ## Features
