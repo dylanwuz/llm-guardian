@@ -1,4 +1,3 @@
-"""直接測試 ML 偵測層，不走 server，不打 OpenAI API"""
 import json
 import sys
 from pathlib import Path

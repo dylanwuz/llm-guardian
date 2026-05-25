@@ -10,7 +10,7 @@ SIMILARITY_THRESHOLD = 0.5
 @dataclass
 class HallucinationResult:
     flagged: bool
-    similarity: float  # 回應與來源文件的餘弦相似度
+    similarity: float
     explanation: str
 
 
